@@ -31,7 +31,7 @@ namespace SuperCan.Models
             if (!optionsBuilder.IsConfigured)
             {
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. See http://go.microsoft.com/fwlink/?LinkId=723263 for guidance on storing connection strings.
-                optionsBuilder.UseSqlServer("Server=CPX-6861U7QI9DD\\SQLEXPRESS;Database=PetShop;Trusted_Connection=True;");
+                optionsBuilder.UseSqlServer("Server=MAYEP29PC00244\\SQLEXPRESS;Database=PetShop;Trusted_Connection=True;");
             }
         }
 
